@@ -53,7 +53,7 @@
 
 .JokeList-getmore {
     display: flex;
-    font-size: 1rem;
+    font-size: 1.2rem;
     width: 70%;
     height: 2rem;
     border-radius: .7rem;
@@ -63,6 +63,9 @@
     margin-top: 20px;
     border: none;
     color: #ffffff;
+    font-weight: 700;
+    word-spacing: 1rem;
+    outline: none;
     background: linear-gradient(
         135deg,
         rgba(179, 229, 252, 1) 0%,
